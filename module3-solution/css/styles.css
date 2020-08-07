@@ -1,0 +1,29 @@
+.our-menu {
+	background-color: #EAEAEA;
+	border: 1px solid black;
+}
+
+section {
+	padding: 10px;
+}
+
+.menu-item-desc {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.menu-item {
+	border-bottom: 1px solid black;
+}
+
+.menu-outside {
+	border-top: 0.5px solid black;
+	border-right: 0.5px solid black;
+	border-left: 0.5px solid black;
+	padding: 0;
+	background-color: lightgray;
+}
+
+.menu-outside-outside{
+	margin 0;}
